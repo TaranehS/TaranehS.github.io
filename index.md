@@ -1,4 +1,3 @@
-# Taraneh Saadati
 
 ## About Me
 I am a researcher with PhD in Energy Science and Technology. I have a multidisciplinary background in mathematics, industrial engineering, and machine learning.
