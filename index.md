@@ -1,8 +1,17 @@
 
-## About Me
-I am a researcher with PhD in Energy Science and Technology. I have a multidisciplinary background in mathematics, industrial engineering, and machine learning.
+# Taraneh Saadati
 
-My research focuses on time series forecasting, renewable energy systems, and AI-based predictive modeling.
+## About Me
+I am **Taraneh Saadati**, a researcher with a PhD in Energy Science and Technology. I have a multidisciplinary background in mathematics, industrial engineering, and machine learning.
+
+My research focuses on **time series forecasting, renewable energy systems, and AI-based predictive modeling**, with a particular emphasis on solar energy forecasting and hybrid ensemble methods.
+
+I develop advanced machine learning and deep learning models to improve forecasting accuracy and support sustainable energy solutions.
+
+---
+
+## Links
+- GitHub: https://github.com/TaranehS
 
 ---
 
