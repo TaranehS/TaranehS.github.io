@@ -12,6 +12,7 @@ I develop advanced machine learning and deep learning models to improve forecast
 
 ## Links
 - GitHub: https://github.com/TaranehS
+- LinkedIn: https://www.linkedin.com/in/taraneh-saadati-phd-215959218/
 
 ---
 
