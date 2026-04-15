@@ -3,7 +3,7 @@ title: ""
 ---
 <div style="display:flex; align-items:center; gap:30px;">
 
-  <img src="/profile.jpg" alt="Taraneh Saadati" 
+  <img src="/Photo.jpg" alt="Taraneh Saadati" 
        style="width:160px; border-radius:50%;">
 
   <div>
