@@ -1,6 +1,12 @@
 ---
 title: ""
 ---
+<div style="display:flex; align-items:center; gap:30px;">
+
+  <img src="/profile.jpg" alt="Taraneh Saadati" 
+       style="width:160px; border-radius:50%;">
+
+  <div>
 
 ## About Me
 I am **Taraneh Saadati**, a researcher with a PhD in Energy Science and Technology. I have a multidisciplinary background in mathematics, industrial engineering, and machine learning.
@@ -23,3 +29,6 @@ I develop advanced machine learning and deep learning models to improve forecast
 - [Projects](projects.md)
 - [CV](cv.md)
 - [Contact](contact.md)
+
+  </div>
+</div>
