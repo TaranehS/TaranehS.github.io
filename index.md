@@ -9,7 +9,7 @@ title: ""
 
 <div>
 <strong>Taraneh Saadati</strong><br>
-Researcher in Energy Science and Technology
+Research Scientist in Data-Driven Systems and Machine Learning
 </div>
 
 </div>
@@ -31,8 +31,9 @@ I develop advanced machine learning and deep learning models to improve forecast
 ---
 
 ## Navigation
-- [Research](research.md)
-- [Publications](publications.md)
-- [Projects](projects.md)
-- [CV](cv.md)
-- [Contact](contact.md)
+- [Research](research.html)
+- [Publications](publications.html)
+- [Projects](projects.html)
+- [CV](cv.html)
+- [Contact](contact.html)
+- [Experience](experience.html)
