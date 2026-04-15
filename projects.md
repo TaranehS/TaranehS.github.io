@@ -1,3 +1,6 @@
+---
+title: ""
+---
 # Projects
 
 - Forecasting of Produced Output Electricity in Photovoltaic Power Plants
