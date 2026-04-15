@@ -1,3 +1,6 @@
+---
+title: ""
+---
 # Publications
 
 - Saadati, T., & Barutcu, B. (2024). Forecasting solar energy: Leveraging artificial intelligence and machine learning for 
