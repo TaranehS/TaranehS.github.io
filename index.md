@@ -9,7 +9,7 @@ title: ""
 
 <div>
 <strong>Taraneh Saadati</strong><br>
-Research Scientist in Data-Driven Systems and Machine Learning
+Research Fellow | Data Scientist | Resilience & Forecasting Analytics
 </div>
 
 </div>
