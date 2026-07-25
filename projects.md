@@ -3,6 +3,7 @@ title: ""
 ---
 # Projects
 
+- Resilient Digital Module (RDM) for supply-chain and manufacturing resilience - Horizon Europe NARRATE: risk RDM development, recovery and decision-support analytics.
 - Forecasting of Produced Output Electricity in Photovoltaic Power Plants
 - A Novel Explainable AI method based on Sensitivity Analysis and its Applications to Deep Learning Models for Remote Sensing Images
 - Hierarchical Forecasting for Hospital Emergency Admissions in Wales
