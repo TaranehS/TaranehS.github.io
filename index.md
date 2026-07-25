@@ -16,11 +16,11 @@ Research Scientist in Data-Driven Systems and Machine Learning
 
 ## About Me
 
-I am **Taraneh Saadati**, a researcher with a PhD in Energy Science and Technology. I have a multidisciplinary background in mathematics, industrial engineering, and machine learning.
+I am **Taraneh Saadati**, a Research Fellow at **Brunel University London** and a Data Scientist with a PhD in Energy Science and Technology. I have an interdisciplinary background in mathematics, industrial engineering, and socio-technical systems.
 
-My research focuses on **time series forecasting, renewable energy systems, and AI-based predictive modeling**, with a particular emphasis on solar energy forecasting and hybrid ensemble methods.
+As part of the **Horizon Europe NARRATE project**, I contribute to developing a Resilient Digital Module that supports risk assessment, resilience monitoring, and decision-making across complex supply chains and manufacturing networks. My work involves resilience analytics, AI-driven methods, Python-based implementation, and decision-support tools.
 
-I develop advanced machine learning and deep learning models to improve forecasting accuracy and support sustainable energy solutions.
+My research expertise spans machine learning, deep learning, ensemble modelling, explainable AI, renewable energy analytics, and hierarchical and probabilistic time-series forecasting. I am particularly interested in developing data-driven solutions that address real-world challenges in resilience, sustainability, and operational decision-making.
 
 ---
 
