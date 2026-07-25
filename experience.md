@@ -3,6 +3,8 @@ title: ""
 ---
 # Experiences and Rewards
 
+- Postdoctoral Research Fellow at Brunel University London (May 2026 - present)
+
 - Visiting PhD - Research Assistant at Cardiff University (2023 – 2025).
   
 - Research Scholar at Scientific and Technological Research Council of Republic of Turkey (TUBITAK) - R&D fellow in
