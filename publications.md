@@ -3,6 +3,8 @@ title: ""
 ---
 # Publications
 
+- Saadati, T., & Barutcu, B. (2026). Enhancing Solar Energy Forecasting Through Chaos Theory And Echo State Networks: A Case Study Of The Konya Eregli Solar Power Plant. Revista Ibero-Americana de Ciências Ambientais, 17(1), e8961. https://doi.org/10.6008/CBPC2179-6858.2026.001.0005
+
 - Saadati, T., & Barutcu, B. (2024). Forecasting solar energy: Leveraging artificial intelligence and machine learning for 
 sustainable energy solutions. Journal of Economic Surveys. Doi: https://doi.org/10.1111/joes.12678.  
 
