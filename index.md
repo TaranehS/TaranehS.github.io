@@ -26,7 +26,7 @@ My research expertise spans machine learning, deep learning, ensemble modelling,
 
 ## Links
 - GitHub: https://github.com/TaranehS
-- LinkedIn: https://www.linkedin.com/in/taraneh-saadati-phd-215959218/
+- LinkedIn: https://www.linkedin.com/in/taraneh-saadati-215959218
 
 ---
 
